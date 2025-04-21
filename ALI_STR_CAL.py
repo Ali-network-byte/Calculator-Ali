@@ -2,7 +2,7 @@ import streamlit as st
 import re
 
 # Set page config
-st.set_page_config(page_title="Huzaifa's Calculator", layout="centered")
+st.set_page_config(page_title="ALI's Calculator", layout="centered")
 
 # Inject custom CSS
 st.markdown("""
